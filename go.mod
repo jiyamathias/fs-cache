@@ -7,7 +7,7 @@ require (
 	github.com/rs/zerolog v1.34.0
 	github.com/stretchr/testify v1.11.1
 	go.mongodb.org/mongo-driver v1.17.4
-	gorm.io/gorm v1.30.2
+	gorm.io/gorm v1.30.4
 )
 
 require (
